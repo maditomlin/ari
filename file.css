@@ -1,0 +1,47 @@
+a:visited {
+font-family: 'Grand Hotel', cursive;
+color: #336699;
+}
+html{
+  color: #336699;
+  border: 200px solid white;
+  outline-style: solid;
+  outline-color: white;
+  border-bottom: 900px solid white;
+}
+
+.white{
+  height: 700px;
+  width: 1700px;
+  position: relative;
+  right: 100px;
+  top:-300px;
+}
+
+.ari{
+  display: inline-block;
+  width: 350px;
+  height:350px;
+  padding: 5px;
+    object-fit: cover;
+}
+body{
+  display: inline-block;
+  width: 420px;
+  height: 5px;
+  padding: 2px;
+  background-color: #e6e6e6;
+}
+body{
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+.ari {
+  position: relative;
+  left: 420px;
+  top:-350px;
+}
+.ari {
+  border-radius: 100%;
+}
